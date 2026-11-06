@@ -1,0 +1,14 @@
+# Command Code local config (taste, session data)
+.commandcode/
+
+# Vercel CLI local state
+.vercel/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
